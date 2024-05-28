@@ -140,7 +140,7 @@ Labs for Intel® Certified Developer Program — MLOps Professional
 ## Forks and staging repos
 * https://github.com/intel/onnxruntime
 
-## Other AI Intel orgs at Github
+## Other AI-related Intel orgs on GitHub
 * https://github.com/HabanaAI
 * https://github.com/openvinotoolkit
 * https://github.com/intel-analytics
